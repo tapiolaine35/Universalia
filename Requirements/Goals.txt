@@ -1,5 +1,5 @@
 Goals
 
 The end result is a website where users can create accounts, edit new words, post comments on words.
-Each word will be peer have votes and comments from people who speak natively many different languages. The votes will be for "easy to learn", "easy to pronounce/speak", "easy to write"
+Each word will have votes and comments from people who speak natively many different languages. The votes will be for "easy to learn", "easy to pronounce/speak", "easy to write"
 The website will be used together with the facebook page where more people can post comments on chosen words.
