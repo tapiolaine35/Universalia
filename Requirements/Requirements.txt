@@ -1,0 +1,32 @@
+Basic Website Requirements
+
+1. CRUD for words
+posibility to add new words in any encoding and in audio format
+posibility to vote words and grammar ideas
+add comments on each word (Name, Language, date, comment; Dan Japanese date, comment; Andrew Russian date, comment)
+
+2. CRUD for comments
+
+3. Page for project goals
+
+4. Page for grammar goals
+
+5. Register/login/logout
+
+6. Permissions
+a. superadmin 
+b. admin 
+c. can aprove words and comments if they have at least 3 views from users
+d. users who contribute to the project
+
+7. Ability to invite friends by email to the website (standard email to be sent as invitation)
+
+8. facebook, twitter accounts for the project
+
+9. Share on facebook, twitter
+
+10. Download word list (Universalia -> Russian, Universalia -> English, Universalia -> Franch)
+
+11. Universalia script decisions: ASCII VS new vs combined
+
+12. Nice responsive design
