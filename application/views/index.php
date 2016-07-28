@@ -6,6 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<meta charset="utf-8">
 	<title>Welcome to CodeIgniter</title>
         
+        <link href="assets/css/reset.css" rel="stylesheet" type="text/css" />
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
         <script src="assets/js/jquery-3.1.0.min.js" type="text/javascript"></script>
         <script src="assets/js/welcome.js" type="text/javascript"></script>
@@ -18,9 +19,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <div id="page-outer">
                 <div id="page-inner">
                     <div id="header">
-                        <h1 id="page-title">Universalia</h1>
+                        <h1 id="logo">Universalia</h1>
                         
-                        <h3>The official language for more than 7 billion people</h3>
+                        
+                        
+                        <div id="auth">
+                            <a href="register">Register</a> |
+                            <a href="login">Login</a>
+                        </div>
+                        
+                        <h1 id="page-title">The official language for more than 7 billion people</h1>
                     </div>
                     
                     <div id="content">
