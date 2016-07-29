@@ -1,8 +1,8 @@
 Basic Website Requirements
 
 1. CRUD for words
-posibility to add new words in any encoding and in audio format
-posibility to vote words and grammar ideas
+possibility to add new words in any language encoding and in audio format; a user can add more than one audio file for a word; other users can add audio files for a word submitted by another user
+possibility to vote words and grammar ideas
 add comments on each word (Name, Language, date, comment; Dan Japanese date, comment; Andrew Russian date, comment)
 
 2. CRUD for comments
@@ -30,3 +30,7 @@ d. users who contribute to the project
 11. Universalia script decisions: ASCII VS new vs combined
 
 12. Nice responsive design
+
+
+A. The version for new language from scratch
+B. The version for simplifying an existing language
