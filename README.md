@@ -1,3 +1,8 @@
+The website will be used by thousands of philosophers, linguists, mathematicians, people speaking more than 3 languages, and people from different countries speaking one native language. They will all 
+contribute to create a universal language that can be used by everyone with ease.
+
+
+
 # Universalia
 Official language for 7 billion people
 
